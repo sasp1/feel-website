@@ -1,0 +1,22 @@
+{
+  "name": "feel-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasp1/feel-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasp1/feel-website/issues"
+  },
+  "homepage": "https://github.com/sasp1/feel-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
